@@ -67,7 +67,7 @@ book-store-mern/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Book-Store-MERN-Stack.git
+git clone https://github.com/Gowtham5285/Book-Store-MERN.git
 cd Book-Store-MERN-Stack
 ```
 
